@@ -17,5 +17,9 @@ Point Flow:
   - With enough points, get an NFT
   - Claim $JUNO itself? (some rate relative to number of accounts maybe?)  
 
+---
+
+Ideas:
+
 Add a "mine" feature? where every block you can mine for a chance to get some points.
 uses gas, but makes for better fees generation possibly?

@@ -1,0 +1,1 @@
+2b594ac1c2a88a656db8824c4ad7839176aa651090327433075e6861e4128fa8  ./target/wasm32-unknown-unknown/release/idlegame.wasm
